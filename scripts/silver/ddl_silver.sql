@@ -3,9 +3,9 @@
 SQL Script: Create Silver Tables
 ==========================================================================
 Script Purpose:
-  This script creates tables in the 'silver' schema, dropping tsbles 
+  This script creates tables in the 'silver' schema, dropping tables 
   if they already exist.
-  Run this script to re-define the DDL structure of 'silver' Tables
+  Run this script to re-define the DDL structure of 'bronze' Tables
 ==========================================================================
 */
 
